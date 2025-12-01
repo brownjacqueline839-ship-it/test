@@ -1,0 +1,5 @@
+{
+  "name": "DevFile Explorer",
+  "description": "An interactive guide to understanding and opening TS, TSX, and JSON files, featuring AI-powered explanations and code examples.",
+  "requestFramePermissions": []
+}
